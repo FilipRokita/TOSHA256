@@ -12,3 +12,7 @@ You will need `hashlib` package to run TOSHA256, but it comes with python by def
 python3 TOSHA256.py
 ```
 2. Input text you want to hash using SHA256 method.
+
+# Author
+Filip Rokita</br>
+www.filiprokita.com
