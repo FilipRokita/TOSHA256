@@ -4,10 +4,7 @@ A simple application that hashes entered data using the SHA256 method. Run the s
 <img src="TOSHA256.png">
 
 # Usage
-1. Run the script by:
-```
-python3 TOSHA256.py
-```
+1. Run the script
 2. Input text you want to hash using SHA256 method and click enter
 3. You will see the result on the screen
 
